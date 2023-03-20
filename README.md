@@ -1,6 +1,6 @@
 # Next.js Project
 
-This is a portfolio in the form of a CV made with Next.js in which you can also consult data such as its page linked to github and a blog where you can see the technologies that this person knows.
+This is a portfolio made with Next.js in which you can also consult data such as its page linked to github and a blog where you can see the technologies that this person knows.
 
 For this project I have used a manual Next.js installation.
 
